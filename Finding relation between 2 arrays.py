@@ -9,6 +9,7 @@ from tensorflow import keras
 
 #creating the model
 model = tf.keras.Sequential([keras.layers.Dense(units=1, input_shape=[1])])
+#compiling the model
 model.compile(optimizer='sgd', loss='mean_squared_error')
 
 #giving the input arrays
