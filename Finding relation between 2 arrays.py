@@ -1,4 +1,5 @@
 #a machine laerning program for finding the relationship between two arrays x and y
+#the arrays are given in below
 # xs = [-1, 0.0, 1.0, 2.0, 3.0, 4.0]
 # ys = [-3.0, -1.0, 1.0, 3.0, 5.0, 7.0]
 
