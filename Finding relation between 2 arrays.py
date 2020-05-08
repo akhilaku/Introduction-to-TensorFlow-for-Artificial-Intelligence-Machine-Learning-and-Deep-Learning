@@ -4,7 +4,7 @@
 # ys = [-3.0, -1.0, 1.0, 3.0, 5.0, 7.0]
 
 #importing the neccessary packages
-#importing tensorflow and from tensorflow
+#importing tensorflow and from tensorflow importing keras
 import tensorflow as tf
 import numpy as np
 from tensorflow import keras
